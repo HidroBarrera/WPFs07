@@ -1,0 +1,4 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+C:/Users/idrol/OneDrive/Escritorio/Coses[[:space:]]de[[:space:]]clase/M07_Desenvolupament[[:space:]]d'interfícies/UF01/s07dp/s07/bin/Release/net6.0-windows/win-x64/publish filter=lfs diff=lfs merge=lfs -text
+C:/Users/idrol/OneDrive/Escritorio/Coses[[:space:]]de[[:space:]]clase/M07_Desenvolupament[[:space:]]d'interfícies/UF01/s07dp/s07/bin/Release/net6.0-windows/win-x64/publish/s07.exe filter=lfs diff=lfs merge=lfs -text
+C:/Users/idrol/OneDrive/Escritorio/Coses[[:space:]]de[[:space:]]clase/M07_Desenvolupament[[:space:]]d'interfícies/UF01/s07dp/s07/bin/Release/net6.0-windows/win-x64/publish/s07.exe filter=lfs diff=lfs merge=lfs -text
